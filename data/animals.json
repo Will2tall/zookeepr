@@ -117,55 +117,6 @@
         "hungry"
       ],
       "id": "11"
-    },
-    {
-      "name": "barry",
-      "species": "monkey",
-      "diet": "herbivore",
-      "personalityTraits": [
-        "hungry",
-        "loving"
-      ],
-      "id": "12"
-    },
-    {
-      "name": "barry",
-      "species": "monkey",
-      "diet": "herbivore",
-      "personalityTraits": [
-        "hungry",
-        "loving"
-      ],
-      "id": "13"
-    },
-    {
-      "name": "barry",
-      "species": "monkey",
-      "diet": "herbivore",
-      "personalityTraits": [
-        "hungry",
-        "loving"
-      ],
-      "id": "14"
-    },
-    {
-      "name": "george",
-      "species": "snake",
-      "diet": "carnivore",
-      "personalityTraits": [
-        "goofy"
-      ],
-      "id": "15"
-    },
-    {
-      "name": "barry",
-      "species": "monkey",
-      "diet": "herbivore",
-      "personalityTraits": [
-        "hungry",
-        "loving"
-      ],
-      "id": "16"
     }
   ]
 }
